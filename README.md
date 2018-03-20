@@ -1,4 +1,4 @@
-# <radius-generator>
+## &lt;radius-generator&gt;
 
 `radius-generator` is a adjustable rounded corner element.
 
